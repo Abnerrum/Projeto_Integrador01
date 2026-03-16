@@ -1,8 +1,8 @@
 import streamlit as st
+from funcoes.functions import push_gyn
 
-@st.cache_data
 def pagina_goiania():
    st.title("Goiânia")
-   st.write("Maior cidade do Estado de Goiás. Encontre aqui os melhores pontos de Goiânia")    
-
-pagina_goiania()
+   st.write("Hub da maior cidade do estado de Goiás, encontre aqui os melhores pontos da cidade!")    
+   
+   push_gyn()

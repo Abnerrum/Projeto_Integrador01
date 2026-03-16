@@ -1,0 +1,251 @@
+[
+  {
+    "title": "Trem Azul Música e Bar",
+    "totalScore": 4.4,
+    "reviewsCount": 889,
+    "street": "Rua F-65 Qd 194 Lt 24",
+    "city": "Goiânia",
+    "state": "GO",
+    "countryCode": "BR",
+    "website": null,
+    "phone": null,
+    "categories": [
+      "Bar e Grill",
+      "Bar de cervejas",
+      "Bar",
+      "Bares",
+      "Restaurante"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Trem%20Azul%20M%C3%BAsica%20e%20Bar&query_place_id=ChIJ5xxb7iD3XpMR1R6SGYC2JRA",
+    "categoryName": "Bar e Grill"
+  },
+  {
+    "title": "BAR CAMINHO DE CASA",
+    "totalScore": 4.8,
+    "reviewsCount": 13,
+    "street": null,
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": null,
+    "phone": null,
+    "categories": [
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=BAR%20CAMINHO%20DE%20CASA&query_place_id=ChIJ2__0vuvzXpMRF5Z3izJzzjg",
+    "categoryName": "Bar"
+  },
+  {
+    "title": "PRAIAS BEER BAR",
+    "totalScore": 4.5,
+    "reviewsCount": 246,
+    "street": "R. GB-1, 101-109",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": null,
+    "phone": null,
+    "categories": [
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=PRAIAS%20BEER%20BAR&query_place_id=ChIJFdB0yZHyXpMRk7QdYyK52tY",
+    "categoryName": "Bar"
+  },
+  {
+    "title": "Bar do Machinha",
+    "totalScore": 4.7,
+    "reviewsCount": 32,
+    "street": "R. GB-8, 504",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": null,
+    "phone": null,
+    "categories": [
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bar%20do%20Machinha&query_place_id=ChIJQ8IfMSrzXpMR-6i89tevqn0",
+    "categoryName": "Bar"
+  },
+  {
+    "title": "Bar E Restaurante Serpa",
+    "totalScore": 4.8,
+    "reviewsCount": 45,
+    "street": "R. JG 2",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": null,
+    "phone": null,
+    "categories": [
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bar%20E%20Restaurante%20Serpa&query_place_id=ChIJkdTDJpvyXpMRDO8rn_PV2kk",
+    "categoryName": "Bar"
+  },
+  {
+    "title": "Bendito Bar e Restaurante unidade Parque Amazonia",
+    "totalScore": 4.4,
+    "reviewsCount": 421,
+    "street": "R. Maceió",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": null,
+    "phone": "+55 62 98235-6605",
+    "categories": [
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bendito%20Bar%20e%20Restaurante%20unidade%20Parque%20Amazonia&query_place_id=ChIJi_CEqTP3XpMRsvdg1p50whs",
+    "categoryName": "Bar"
+  },
+  {
+    "title": "Black Ball Sinuca Bar",
+    "totalScore": 4.8,
+    "reviewsCount": 1106,
+    "street": "Av. Rio Verde, 8276",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/blackballsinuca/",
+    "phone": "+55 62 99272-5561",
+    "categories": [
+      "Bares",
+      "Clube de sinuca",
+      "Restaurante"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Black%20Ball%20Sinuca%20Bar&query_place_id=ChIJYYZdszD3XpMR0BzcPwEaLYE",
+    "categoryName": "Bares"
+  },
+  {
+    "title": "Bar miozim",
+    "totalScore": 4.7,
+    "reviewsCount": 20,
+    "street": "Avenida São João, R. Cel. Benjamin Santos, 9 - 921 - Quadra 2 Lote 9",
+    "city": "Goiânia",
+    "state": "GO",
+    "countryCode": "BR",
+    "website": null,
+    "phone": "+55 62 98136-4158",
+    "categories": [
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bar%20miozim&query_place_id=ChIJN53gVL7xXpMRpeQGcw51hu0",
+    "categoryName": "Bar"
+  },
+  {
+    "title": "Garibaldi Bar & Restaurante",
+    "totalScore": 4.5,
+    "reviewsCount": 1784,
+    "street": "Av. T-4, 1764",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": "https://garibaldi.accon.app/menu",
+    "phone": "+55 62 3609-7570",
+    "categories": [
+      "Bar",
+      "Restaurante"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Garibaldi%20Bar%20%26%20Restaurante&query_place_id=ChIJFwCxVRvxXpMRWU9LY8OnOac",
+    "categoryName": "Bar"
+  },
+  {
+    "title": "Barretos Bar e Restaurante",
+    "totalScore": 4.8,
+    "reviewsCount": 1212,
+    "street": "R. C-137, 104",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": null,
+    "phone": "+55 62 99972-4859",
+    "categories": [
+      "Restaurante",
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Barretos%20Bar%20e%20Restaurante&query_place_id=ChIJBaw5WA33XpMRRmLcIbqb05I",
+    "categoryName": "Restaurante"
+  },
+  {
+    "title": "Bar Macambiras",
+    "totalScore": 4.7,
+    "reviewsCount": 35,
+    "street": "Av. Vasco dos Reis, 978-980",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": null,
+    "phone": "+55 62 3996-4321",
+    "categories": [
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Macambiras&query_place_id=ChIJF1ON2RH3XpMRibkhTyUdOrg",
+    "categoryName": "Bar"
+  },
+  {
+    "title": "Bar do angico",
+    "totalScore": 5,
+    "reviewsCount": 9,
+    "street": "CVMR+WW",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": null,
+    "phone": null,
+    "categories": [
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bar%20do%20angico&query_place_id=ChIJiy6ey2LrXpMRFrQAZoM5Exg",
+    "categoryName": "Bar"
+  },
+  {
+    "title": "América Bar",
+    "totalScore": 4.8,
+    "reviewsCount": 81,
+    "street": "R. C-183, 66-146",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": null,
+    "phone": null,
+    "categories": [
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Am%C3%A9rica%20Bar&query_place_id=ChIJQRlq9NbwXpMRs3nRETHvQbM",
+    "categoryName": "Bar"
+  },
+  {
+    "title": "Esquina 62 Bar",
+    "totalScore": 4.6,
+    "reviewsCount": 1326,
+    "street": "Av. Laguna, 480",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": "http://esquina62.com.br/",
+    "phone": "+55 62 98662-6262",
+    "categories": [
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquina%2062%20Bar&query_place_id=ChIJc57qk7n3XpMRSPboM4dz13A",
+    "categoryName": "Bar"
+  },
+  {
+    "title": "Planalto Bar",
+    "totalScore": 4.8,
+    "reviewsCount": 1364,
+    "street": "Av. Marconi, 182 - QD 21 LT 10",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "countryCode": "BR",
+    "website": null,
+    "phone": "+55 62 3271-3368",
+    "categories": [
+      "Restaurante",
+      "Bar"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Planalto%20Bar&query_place_id=ChIJG0K81Xj3XpMRq7SD5GBJC30",
+    "categoryName": "Restaurante"
+  }
+]
