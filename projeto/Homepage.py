@@ -1,8 +1,4 @@
 import streamlit as st
-from cities.goiania import pagina_goiania
-from cities.aparecida import pagina_aparecida
-from cities.canedo import pagina_canedo
-from pages import Encontre_aqui
 
 st.set_page_config(
     page_title ="GoParty",

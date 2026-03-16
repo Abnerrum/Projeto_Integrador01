@@ -6,9 +6,9 @@ from funcoes.functions import push_gyn
 
 # Configura as propriedades básicas da página (título da aba, ícone e estado inicial do menu lateral)
 st.set_page_config(
-    page_title = f"GoParty | Search",
+    page_title = "GoParty | Search",
     page_icon = ":beer:",
-    
+    initial_sidebar_state= "collapsed"
 )
 
 # Renderiza o título do menu lateral
