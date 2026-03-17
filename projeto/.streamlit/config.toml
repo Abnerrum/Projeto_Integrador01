@@ -1,10 +1,8 @@
 [theme]
 base="dark"
-primaryColor="#4E52EF"
-backgroundColor="#1e1e36"
-secondaryBackgroundColor = "#6264C5"
+primaryColor="#e50914"
+backgroundColor="#2c2b2bff"
+secondaryBackgroundColor="#292727ff"
+textColor="#ffffff"
+font="sans serif"
 
-
-[theme.sidebar]
-backgroundColor="#252741"
-secondaryBackgroundColor = "#6264C5"

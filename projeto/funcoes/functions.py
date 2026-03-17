@@ -6,8 +6,8 @@ import json
 with open('datasbank/gynRest.json', 'r', encoding='utf-8') as gRest:
     # 'json.load' transforma o texto do arquivo em uma lista/dicionário que o Python consegue entender.
     gynRest = json.load(gRest)
-
-def push_gyn():
+@st.cache_data
+def push_gyn(): 
     # Como 'gynRest' tem vários restaurantes, nós usamos um "loop" (uma repetição).
     # A linha abaixo significa "Para cada item (que vamos chamar de 'i') dentro da lista completa 'gynRest', faça o seguinte:"
     for i in gynRest:
@@ -35,8 +35,11 @@ def push_gyn():
         
         # Pega o link ('url'). O formato [Nome](link) é do Markdown para criar palavras "clicáveis".
         # Se não tiver a url, ele joga para o '#', que mantém o usuário na mesma página.
-            st.page_link(f"{i.get('url', '#')}", label="Ver no Google Maps")
-        
+            st.page_link(f"{i.get('url', '#')}", label="Ver no Google Maps", icon = "📍")
+            
+            website = i.get('website')
+            if website:
+                st.page_link(f"{website}", label = "Ver Site", icon = "📷")
         # Escreve três tracinhos. Isso no Streamlit e no Markdown vira uma linha divisória para separar um restaurante do outro.
             
            
