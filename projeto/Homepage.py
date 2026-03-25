@@ -2,7 +2,7 @@ import streamlit as st
 
 
 st.set_page_config(
-    page_title ="GoParty",
+    page_title ="GoParty | Homepage",
     page_icon=":beer:",
     layout="wide",
     initial_sidebar_state="collapsed"

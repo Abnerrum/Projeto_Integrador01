@@ -27,7 +27,6 @@ if 'selected_city' not in st.session_state:
     st.session_state.selected_city = "Goiânia"
     
 st.sidebar.markdown("### Selecione uma cidade:")
-
 # Itera sobre as cidades no dicionário 'pgs' e cria um botão no menu lateral para cada uma
 # Quando clicado, atualiza a cidade selecionada no estado da sessão
 for cidade in pgs.keys():

@@ -10,7 +10,7 @@ with open('datasbank/gynRest.json', 'r', encoding='utf-8') as gRest:
 def push_gyn(): 
     # Como 'gynRest' tem vários restaurantes, nós usamos um "loop" (uma repetição).
     # A linha abaixo significa "Para cada item (que vamos chamar de 'i') dentro da lista completa 'gynRest', faça o seguinte:"
-    for i in gynRest:
+    for i in sorted(gynRest, key=lambda x: str(x.get('title', '')).lower()):
         with st.container(border = True):
         
         # 'st.write' é o comando do Streamlit para escrever textos na tela.
