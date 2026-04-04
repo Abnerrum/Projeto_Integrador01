@@ -39,10 +39,10 @@ O **GoParty** é um projeto desenvolvido com foco no lazer e na diversão, centr
    pip install streamlit
 
 4. Inicie o servidor:
-   Se em IDE's:
+   **Se em IDE's:**
    "streamlit run Homepage.py"
-   Senão:
-   "c:<Caminho>"
+   **Senão:**
+   "c:(Caminho)
    "streamlit run Homepage.py"
 
 
