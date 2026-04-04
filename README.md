@@ -34,7 +34,7 @@ O **GoPArty** é um projeto desenvolvido com foco no lazer e na diversão, centr
 1. Certifique-se de ter o **Python 3** instalado.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/fittrack.git
+   git clone https://github.com/seu-usuario/fittrack.git](https://github.com/JohnDelf01/Projeto_Integrador01
 3. Instale o framework Streamlit:
    pip install streamlit
 
