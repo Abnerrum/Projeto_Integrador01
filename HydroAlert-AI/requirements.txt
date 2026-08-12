@@ -1,0 +1,2 @@
+# Etapa 1 usa somente a biblioteca padrao do Python.
+# Etapa 2 adicionara paho-mqtt para comunicacao MQTT.
